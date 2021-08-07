@@ -1,18 +1,17 @@
 # Site settings
-title: Xs-Huxblog
-SEOTitle: Xs-HuxBlog
-header-img: img/bg/bg_index.jpg
-email: jsksxs360@163.com
-description: ""
-keyword: ""
-url: "https://jsksxs360.github.io"              # your host, for absolute URL
-baseurl: "/xs-huxblog"                             # for example, '/blog' if your blog hosted on 'host/blog'
+title: ZQY Blog
+SEOTitle: 以梦为马，不负韶华 | 周琪岳 Blog
+header-img: img/post-bg-os-metro.jpg
+email: zhou3655463@163.com
+description: "ZQYAKIOI && WHILE(1) RP++"
+keyword: "周琪岳,zqy,ZQY,zhouqiyue,C++,c++,酷町堂"
+url: "https://www.luogu.com.cn/user/446233"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
-douban_username: 138483825
-weibo_username: jsksxs360
-zhihu_username: jsksxs360
-github_username: jsksxs360
+# douban_username: 138483825
+zhihu_username:     xing-ji-zhou-61
+github_username:    zhouqiyue123
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -48,7 +47,7 @@ ba_track_id: 07529a93af5fa9f808261a1318c3aba4
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "专注IT，乐于分享。"
+sidebar-about-description: "专注于算法竞赛、C++语言以及IT前沿新闻"
 sidebar-avatar: /xs-huxblog/img/avatar-xs.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -58,11 +57,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },
-    {
-        title: "Xs blog",
-        href: "http://xiaosheng.run"
+        title: "我的洛谷主页",
+        href: "https://www.luogu.com.cn/user/446233e"
     }
 ]
